@@ -35,8 +35,6 @@ ORDER_QUEUE_USERNAME=username
 ORDER_QUEUE_PASSWORD=password
 ORDER_QUEUE_NAME=orders
 EOF
-
-# load the environment variables
 source .env
 ```
 
