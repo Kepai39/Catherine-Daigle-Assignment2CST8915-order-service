@@ -75,8 +75,6 @@ USE_WORKLOAD_IDENTITY_AUTH=true
 AZURE_SERVICEBUS_FULLYQUALIFIEDNAMESPACE=$HOSTNAME
 ORDER_QUEUE_NAME=orders
 EOF
-
-# load the environment variables
 source .env
 ```
 
